@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T16:48:41.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bkA51O2zid-qKjsihpr-" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T21:19:14.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UDLVeRgDYGANSq3Ns3EP" version="15.8.7" type="github">
   <diagram id="TS-0sg0qIK4w21vJPw6Y" name="Page-1">
-    <mxGraphModel dx="1051" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
         <mxCell id="ibKIXqcFg7Qy6oh_62os-48" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;4.1 Shallow wells&lt;br&gt;4.2 ISW&lt;br&gt;4.3 GDEs&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="435" y="380" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ibKIXqcFg7Qy6oh_62os-50" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;1 Introduction&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;5.1 Implementation activities&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;5.2 Interim milestones&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(241 , 156 , 153)&quot;&gt;5.3 PMAs&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;5.4 Support activities&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(241 , 156 , 153)&quot;&gt;5.5 Coming year activities&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="ibKIXqcFg7Qy6oh_62os-50" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;1 Introduction&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;5.1 Implementation activities&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(185 , 224 , 165)&quot;&gt;5.2 Interim milestones&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(241 , 156 , 153)&quot;&gt;5.3 PMAs&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(169 , 196 , 235)&quot;&gt;5.4 Support activities&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(241 , 156 , 153)&quot;&gt;5.5 Coming year activities&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ibKIXqcFg7Qy6oh_62os-51" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;Responsible party&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;i style=&quot;font-weight: 400 ; background-color: rgb(169 , 196 , 235)&quot;&gt;LWA&lt;/i&gt;&lt;i style=&quot;font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;font-weight: 400 ; font-style: italic ; background-color: rgb(185 , 224 , 165)&quot;&gt;W&amp;amp;C&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; font-style: italic ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; font-style: italic ; background-color: rgb(241 , 156 , 153)&quot;&gt;LWA + W&amp;amp;C&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#00CC00;" parent="1" vertex="1">
@@ -138,7 +138,7 @@
         <mxCell id="ibKIXqcFg7Qy6oh_62os-53" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;SASb Annual Report Workflow&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="290" y="20" width="512.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BRkCkSnl1eJoRGljSLWB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1">
+        <mxCell id="BRkCkSnl1eJoRGljSLWB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="360" as="targetPoint" />
             <Array as="points">
@@ -149,8 +149,24 @@
             <mxPoint x="460" y="289" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRkCkSnl1eJoRGljSLWB-2" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;ISW streamflow&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="328" y="295" width="115" height="30" as="geometry" />
+        <mxCell id="BRkCkSnl1eJoRGljSLWB-2" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Simulated streamflow&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="310" y="295" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9SPBP-YQKdww2OBTwLw4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="130" />
+              <mxPoint x="460" y="130" />
+            </Array>
+            <mxPoint x="230" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9SPBP-YQKdww2OBTwLw4-2" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Water production and consumption&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9SPBP-YQKdww2OBTwLw4-3" value="&lt;i&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;GSAs help aggregate data&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
